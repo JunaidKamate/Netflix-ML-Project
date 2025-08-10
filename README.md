@@ -1,7 +1,4 @@
 # Netflix-ML-Project
-Machine Learning project on Netflix dataset with EDA and model building
-
-****Netflix Machine Learning Project****
 
 📌 **Project Overview**
 
